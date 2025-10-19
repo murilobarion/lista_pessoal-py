@@ -1,4 +1,4 @@
-# Lista Pessoal (lista_pessoal-py)
+# Lista Pessoal
 
 Este projeto é uma aplicação de console simples, desenvolvida em Python, que funciona como um gerenciador de listas pessoais. Ele permite ao usuário adicionar, visualizar e remover itens de forma interativa diretamente através do terminal.
 
